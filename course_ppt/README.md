@@ -51,6 +51,7 @@
 - **DeepLab V1** 链接：https://pan.baidu.com/s/1NFxb7ADQOMVYLxmIKqTONQ  提取码：500s
 - **DeepLab V2** 链接：https://pan.baidu.com/s/1woe3lJYBVkOdnn6XXlKf8g 提取码：76ec
 - **DeepLab V3** 链接：https://pan.baidu.com/s/1WVBgc2Ld13D0_dkHGwhTpA 提取码：m54m
+- **UNet** 链接: https://pan.baidu.com/s/1WDwI-DuzYklMvwyRxVUXjA 提取码: rd4j
 - **U2Net**  链接：https://pan.baidu.com/s/1ekbEm4dsjlFamK8dCs8yfA  提取码：472j
 
 
